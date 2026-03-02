@@ -12,10 +12,11 @@ Supported catalog formats:
 
 Organizations of scientists working on the project:
 
-- [The LSU Museum of Natural Science (LSUMNS)](https://www.lsu.edu/mns/)
+- [The American Museum of Natural History (AMNH)](https://www.amnh.org/)
 - [The Florida Museum of Natural History (FLMNH)](https://www.floridamuseum.ufl.edu/)
-- [The U.S National Museum of Natural History (NMNH)](https://naturalhistory.si.edu/)
-- [The SAM Noble Museum of Natural History (SNMNH)](https://samnoblemuseum.ou.edu/)
-- [The Indonesian Research and Innovation Agency (BRIN)](https://www.brin.go.id/)
-- [The University of Melbourne (UoM)](https://www.unimelb.edu.au/)
 - [The Human-Augmented and Analytics Group (HAAG) at Georgia Tech](https://sites.gatech.edu/human-augmented-analytics-group/)
+- [The Indonesian Research and Innovation Agency (BRIN)](https://www.brin.go.id/)
+- [The LSU Museum of Natural Science (LSUMNS)](https://www.lsu.edu/mns/)
+- [The SAM Noble Museum of Natural History (SNMNH)](https://samnoblemuseum.ou.edu/)
+- [The U.S National Museum of Natural History (NMNH)](https://naturalhistory.si.edu/)
+- [The University of Melbourne (UoM)](https://www.unimelb.edu.au/)
