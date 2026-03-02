@@ -11,3 +11,11 @@ Organizations of museum and computer scientists working on the project:
 - [The Indonesian Research and Innovation Agency (BRIN)](https://www.brin.go.id/)
 - [The University of Melbourne (UoM)](https://www.unimelb.edu.au/)
 - [The Human-Augmented and Analytics Group (HAAG) at Georgia Tech](https://sites.gatech.edu/human-augmented-analytics-group/)
+
+Supported Catalog Formats
+
+- Mammals 🐿️
+- Birds 🦅
+- Herpetofauna (in development) 🐍
+- Fishes (in development) 🐠
+- Paleo Vertebrates (planned) 🦣
