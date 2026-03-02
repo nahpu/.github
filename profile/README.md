@@ -10,7 +10,7 @@ Supported catalog formats:
 - Fishes (in development) 🐠
 - Paleo Vertebrates (planned) 🦣
 
-Organizations of museum and computer scientists working on the project:
+Organizations of scientists working on the project:
 
 - [The LSU Museum of Natural Science (LSUMNS)](https://www.lsu.edu/mns/)
 - [The Florida Museum of Natural History (FLMNH)](https://www.floridamuseum.ufl.edu/)
