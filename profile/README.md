@@ -1,6 +1,6 @@
 # The NAHPU project
 
-The NAHPU project is a collaborative effort to develop a cross-platform digital application and supporting software suites to digitize natural history collections right at the point of collection. The initiative will enable to streamline data collection in the field to museum databases, eliminating errors from a secondary data entry associated with conventional paper catalogs.
+The NAHPU project is a collaborative effort to develop a cross-platform digital application and supporting software suites to digitize natural history collections right at the point of collection. The initiative will enable natural history museums to streamline data collection from the field to museum databases. It will eliminate errors from a secondary data entry associated with conventional paper catalogs. Our work will also simplify managing complex data collections from voucher specimens, associated parts, and derivative data, such as photograph, audio, and video.
 
 Organizations of museum and computer scientists working on the project:
 
