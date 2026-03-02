@@ -8,7 +8,7 @@ Supported catalog formats:
 - Birds 🦅
 - Herpetofauna (in development) 🐍
 - Fishes (in development) 🐠
-- Paleo Vertebrates (planned) 🦣
+- Paleo Vertebrates (in development) 🦣
 
 Organizations of scientists working on the project:
 
