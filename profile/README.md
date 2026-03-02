@@ -19,4 +19,4 @@ Organizations of scientists working on the project:
 - [The LSU Museum of Natural Science (LSUMNS)](https://www.lsu.edu/mns/)
 - [The SAM Noble Museum of Natural History (SNMNH)](https://samnoblemuseum.ou.edu/)
 - [The U.S National Museum of Natural History (NMNH)](https://naturalhistory.si.edu/)
-- [The University of Melbourne (UoM)](https://www.unimelb.edu.au/)
+- [The University of Melbourne (Unimelb)](https://www.unimelb.edu.au/)
