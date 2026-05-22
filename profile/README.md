@@ -25,5 +25,5 @@ Organizations of scientists working on the project:
 
 - The National Science Foundation ([DEB-1754393](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1754393) and [DEB-2244754](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2244754))
 - The Alfred L. Gardner and Mark S. Hafner Mammalogy Fund
-- The[Human-Augmented Analytics Group](https://sites.gatech.edu/human-augmented-analytics-group/) provides logistical support for interdisciplinary collaboration
+- The [Human-Augmented Analytics Group](https://sites.gatech.edu/human-augmented-analytics-group/) provides logistical support for interdisciplinary collaboration
 - Various other funding sources may have supported this project through the work of the contributors
