@@ -11,7 +11,7 @@ The NAHPU project is a collaborative effort to develop a cross-platform digital 
 
 An integrated app suite for field data collection and mobilization with real-time analytics, utilizing both conventional and advanced machine-learning methods.
 
-Supported catalog formats:
+## Supported catalog formats
 
 - Mammals 🐿️
 - Birds 🦅
@@ -20,7 +20,7 @@ Supported catalog formats:
 - Paleo Vertebrates (in development) 🦣
 - Entomology (in development) 🦋
 
-Organizations of scientists working on the project:
+## Organizations of scientists working on the project
 
 - [The American Museum of Natural History (AMNH)](https://www.amnh.org/)
 - [The Florida Museum of Natural History (FLMNH)](https://www.floridamuseum.ufl.edu/)
