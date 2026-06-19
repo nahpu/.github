@@ -6,9 +6,10 @@ Supported catalog formats:
 
 - Mammals 🐿️
 - Birds 🦅
-- Herpetofauna (in development) 🐍
+- Herpetofauna 🐍
 - Fishes (in development) 🐠
 - Paleo Vertebrates (in development) 🦣
+- Entomology (in development) 🦋
 
 Organizations of scientists working on the project:
 
