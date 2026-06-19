@@ -18,7 +18,7 @@ An integrated app suite for field data collection and mobilization with real-tim
 - Herpetofauna 🐍
 - Fishes (in development) 🐠
 - Paleo Vertebrates (in development) 🦣
-- Entomology (in development) 🦋
+- Invertebrates (in development) 🦋
 
 ## Organizations of scientists working on the project
 
