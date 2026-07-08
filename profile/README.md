@@ -1,6 +1,6 @@
 # The NAHPU project
 
-The NAHPU project is a collaborative effort to develop a cross-platform digital catalog app and supporting software suites to digitize natural history collections right at the point of collection. 
+The NAHPU project is a collaborative initiative to develop a cross-platform digital catalog app and supporting software suites to digitize natural history collections and deliver data insights at the point of collection. 
 
 Short-term goals:
 
