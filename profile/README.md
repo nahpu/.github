@@ -13,12 +13,12 @@ An integrated app suite for field data collection and mobilization with real-tim
 
 ## Supported catalog formats
 
-- Mammals 🐿️
-- Birds 🦅
-- Herpetofauna 🐍
-- Fishes (in development) 🐠
-- Paleo Vertebrates (in development) 🦣
-- Invertebrates (in development) 🦋
+- Mammalogy 🐿️
+- Ornithology 🦅
+- Herpetology 🐍
+- Ichthyology (in development) 🐠
+- Paleontology (in development) 🦣
+- Entomology (in development) 🦋
 
 ## Organizations of scientists working on the project
 
