@@ -37,3 +37,7 @@ An integrated app suite for field data collection and mobilization with real-tim
 - The Alfred L. Gardner and Mark S. Hafner Mammalogy Fund
 - The [Human-Augmented Analytics Group](https://sites.gatech.edu/human-augmented-analytics-group/) provides logistical support for interdisciplinary collaboration
 - Various other funding sources may have supported this project through the work of the contributors
+
+## Disclaimer
+
+The views, findings, and conclusions expressed in this project are solely those of the authors and do not necessarily reflect the official policies or positions of the National Science Foundation, the Alfred L. Gardner and Mark S. Hafner Mammalogy Fund, the Human-Augmented Analytics Group, or any other supporting bodies.
