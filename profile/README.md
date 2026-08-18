@@ -1,15 +1,16 @@
 # The NAHPU project
 
-The NAHPU project is a collaborative initiative to develop a cross-platform digital catalog app and supporting software suites to digitize natural history collections and deliver data insights at the point of collection.
+The NAHPU project is a collaborative initiative to develop a cross-platform digital catalog app and supporting software suites to digitize natural history collections and deliver data insights at the point of collection. We aim to accelerate biodiversity research and strengthen natural history collections as biorepositories for evolutionary studies, conservation management, and disease surveillance. Our plans:
 
-Short-term goals:
+Short-term:
 
 - Enables natural history museums to streamline data collection from the field to museum databases, eliminating errors from secondary data entry associated with conventional paper catalogs.
 - Simplify managing complex fieldwork records, including voucher specimens, associated specimen parts, ecological data, collecting efforts, field journals, and derivative media (photographs, audio, and video).
 
-Long-term goals:
+Long-term:
 
-An integrated app suite for field data collection and mobilization with real-time analytics, utilizing both conventional and advanced machine-learning methods.
+- Real-time analytics, utilizing both conventional and advanced machine-learning methods.
+- Comprehensive data collection, integration, and management, including genomic integration and 2D/3D phenomics.
 
 ## Supported catalog formats
 
