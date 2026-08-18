@@ -10,7 +10,7 @@ Short-term:
 Long-term:
 
 - Real-time analytics, utilizing both conventional and advanced machine-learning methods.
-- Comprehensive data collection, integration, and management, including genomic integration and 2D/3D phenomics.
+- Comprehensive data collection, integration, and management, including genomic and 2D/3D phenomic integration.
 
 ## Supported catalog formats
 
