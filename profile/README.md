@@ -5,11 +5,11 @@ The NAHPU project is a collaborative initiative to develop a cross-platform digi
 Short-term:
 
 - Enable natural history museums to streamline data collection from the field to museum databases, eliminating errors from secondary data entry associated with conventional paper catalogs.
-- Simplify managing complex fieldwork records, including voucher specimens, associated specimen parts, ecological data, collecting efforts, field journals, and derivative media (photographs, audio, and video).
+- Simplify managing complex fieldwork records, including voucher specimens, numerous specimen parts, ecological data, collecting efforts, field journals, and derivative media (photographs, audio, and video).
 
 Long-term:
 
-- Real-time analytics, utilizing both conventional and advanced machine-learning methods.
+- Real-time analytics, utilizing both conventional and emerging machine-learning methods.
 - Comprehensive data collection, integration, and management, including genomic and 2D/3D phenomic integration.
 
 ## Supported catalog formats
