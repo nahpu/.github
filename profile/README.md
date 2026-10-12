@@ -16,10 +16,11 @@ Long-term:
 
 - Mammalogy 🐿️
 - Ornithology 🦅
-- Herpetology 🐍
+- Herpetology (beta) 🐍
+- Invertebrate zoology (beta) 🦋
 - Ichthyology (in development) 🐠
 - Paleontology (in development) 🦣
-- Entomology (in development) 🦋
+
 
 ## Organizations of scientists working on the project
 
