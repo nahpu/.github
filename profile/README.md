@@ -18,7 +18,7 @@ Long-term:
 - Ornithology 🦅
 - Herpetology (beta) 🐍
 - Invertebrate zoology (beta) 🦋
-- Ichthyology (in development) 🐠
+- Ichthyology (beta) 🐠
 - Paleontology (in development) 🦣
 
 
